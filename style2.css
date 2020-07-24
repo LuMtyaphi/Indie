@@ -1,3 +1,5 @@
+
+
 /* body */
 @font-face {
 	src: url(Roboto2/Roboto-Regular.ttf);
@@ -240,7 +242,7 @@ li.nav-item {
 
 	.apply-buttons {
 		position: absolute;
-		top: 45%;
+		top: 58%;
 		right: 15%;
 	}
 
